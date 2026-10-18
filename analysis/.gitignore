@@ -1,0 +1,4 @@
+*.wav
+*.npz
+peaks.json
+octave_relative_levels.json
