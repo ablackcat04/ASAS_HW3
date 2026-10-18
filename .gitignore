@@ -1,3 +1,9 @@
 cmake-build-debug
 cmake-build-release
 .idea
+build/
+tmp/
+output/
+analysis/*.wav
+analysis/*.npy
+analysis/*.csv
